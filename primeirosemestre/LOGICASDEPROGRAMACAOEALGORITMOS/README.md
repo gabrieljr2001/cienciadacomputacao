@@ -1,4 +1,4 @@
-Disciplina: LÓGICA DE PROGRAMAÇÃO E ALGORITMOS
+Disciplina:LÓGICA DE PROGRAMAÇÃO E ALGORITMOS
 Periodo: 1
 Carga Horária: 60
  
